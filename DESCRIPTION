@@ -1,0 +1,14 @@
+Package: MAPCO
+Type: Package
+Title: A mixed model for Mendelian randomization in the presence of
+        correlated pleiotropic effects
+Version: 0.1.0
+Author: xxx
+Maintainer: xxx <xxx@xxx.xxx>
+Depends: R (>= 3.5.0)
+Description: The package provides a Mendelian randomization approach for the inference of causal relationship between traits based on summary-level GWAS data, which takes account of the horizontal pleiotropy and correlation between genetic effects on traits. It requires neither the InSIDE assumption nor the conditions on the proportion of valid instrumental variables.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
+Packaged: 2020-08-10 07:54:05 UTC; ckhsu
